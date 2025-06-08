@@ -46,7 +46,7 @@ This GitHub organization documents the **living architecture** behind the studio
 ### 🔗 External Links
 
 - 🎬 [YouTube: iStudioGamer](https://www.youtube.com/@iStudioGamer)  
-- 🌐 [Website: iStudioGamer.com](https://linktr.ee/istudiogamer)
+- 🌐 [Website: iStudioGamer](https://linktr.ee/istudiogamer)
 
 > *We don’t just play games. We build systems around them.*  
 > **Designed by an engineer. Maintained as code.**
