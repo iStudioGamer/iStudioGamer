@@ -1,7 +1,6 @@
 # 🎮 iStudioGamer
 
 **AI-native performance infrastructure. Engineered through gaming. Powered by code.**  
-**Designed by an engineer.**
 
 ---
 
