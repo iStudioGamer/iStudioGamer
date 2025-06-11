@@ -45,7 +45,7 @@ It reflects an infrastructure mindset — shaped by **architecture-level thinkin
 ## 🔗 External Links
 
 - 🎬 [YouTube: iStudioGamer](https://www.youtube.com/@iStudioGamer)  
-- 🌐 [Website: iStudioGamer](https://iStudioGamer.com)
+- 🌐 [Website: iStudioGamer](https://linktr.ee/istudiogamer)
 
 ---
 
