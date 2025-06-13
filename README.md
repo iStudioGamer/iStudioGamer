@@ -1,53 +1,36 @@
-# 🎮 iStudioGamer  
-**AI-native performance infrastructure. Engineered through gaming. Powered by code.**
+# 🎮 iStudioGamer
+AI-native performance infrastructure. Engineered through gaming. Powered by code.
 
 ---
 
 ## 🧠 Vision
-
-iStudioGamer is a hybrid infrastructure project operating at the intersection of:
-
-- 🎮 High-performance 4K gaming (local + cloud-based)  
-- 📊 Source-built benchmarking, encoding, and telemetry tools  
-- ⚙️ Python-powered automation and runtime orchestration  
-- 💻 NVIDIA GPU stack (RTX 4090 / 4080) + GeForce NOW integration  
-- 🧠 AI/LLM-enhanced pipelines and creative tooling  
-- 🌐 Cross-platform workflows (Linux, macOS, cloud)
-
-This GitHub organization captures the **evolution of a system-first studio**, where **performance, automation, and AI** meet content creation.  
-It reflects an infrastructure mindset — shaped by **architecture-level thinking**, not just media.
+**iStudioGamer** is the flagship studio infrastructure project of [iStudioLabs](https://github.com/iStudioLabs).
+It documents and automates the full stack behind a modern, cinematic gaming YouTube channel — where **DevSecOps meets media production**.
+From 4K cloud linux gaming to FFmpeg pipelines, from YouTube APIs to real-time telemetry, this project is built as a **product-grade platform** — versioned, scalable, and reproducible.
 
 ---
 
-## ⚙️ Core Capabilities
-
-- ✅ Custom-compiled pipelines: FFmpeg, OBS Studio, MangoHud  
-- 📉 Real-time FPS and latency overlays (native + Proton GE)  
-- 🧪 Code-first scripting: Python, Bash, API clients  
-- ☁️ Cloud-native extensions: GCP, automation, data pipelines  
-- 🧠 LLM-driven augmentation: transcription, metadata, SEO  
-- 🔁 Everything managed, iterated, and versioned like code
-
----
-
-## 🌐 Domain Scope
-
-- 🎮 Gameplay Infrastructure  
-- 📊 Benchmarking + Telemetry  
-- 🧠 AI Systems + LLM Workflows  
-- 🧰 DevTool Engineering  
-- ☁️ Cloud Gaming (GeForce NOW RTX 4080)  
-- ⚡ Python + API Scripting  
-- 🧱 Real Infrastructure — not just content
+## ⚙️ Core Architecture
+- 🧱 DevOps-style CI/CD for video publishing
+- 🎥 FFmpeg-based render and encode pipelines
+- 🤖 Whisper + LLM-driven transcription + SEO enrichment
+- 🕹️ Gameplay benchmark overlays (MangoHud, Proton GE)
+- ☁️ Cloud-native API orchestration (YouTube, GCP, etc.)
+- 🧬 All metadata versioned as YAML (titles, tags, timestamps)
 
 ---
 
-## 🔗 External Links
-
-- 🎬 [YouTube: iStudioGamer](https://www.youtube.com/@iStudioGamer)  
-- 🌐 [Website: iStudioGamer](https://linktr.ee/istudiogamer)
+## 🔁 Workflow Philosophy
+> Treat every video like a code artifact.  
+> Treat every game like a versioned dataset.  
+> Build content pipelines with the discipline of software infrastructure.
 
 ---
 
-> _We don’t just play games. We build systems around them._  
-> **Designed by an engineer. Maintained as code.**
+## 🔍 Studio Identity
+Maintained by [`@iStudioGamer`](https://github.com/iStudioGamer) under the `iStudioLabs` organization.
+This project powers all content and infrastructure for the [iStudioGamer](https://linktr.ee/istudiogamer).
+
+---
+
+🛠️ Designed by an engineer. Maintained as code.
