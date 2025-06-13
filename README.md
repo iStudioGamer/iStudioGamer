@@ -29,7 +29,7 @@ From 4K cloud linux gaming to FFmpeg pipelines, from YouTube APIs to real-time t
 
 ## 🔍 Studio Identity
 Maintained by [`@iStudioGamer`](https://github.com/iStudioGamer) under the `iStudioLabs` organization.
-This project powers all content and infrastructure for the [iStudioGamer](https://linktr.ee/istudiogamer).
+This project powers all content and infrastructure for the [iStudioGamer](https://linktr.ee/istudiogamer) brand — from YouTube delivery to AI-powered backend operations.
 
 ---
 
