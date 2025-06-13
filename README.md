@@ -6,7 +6,7 @@ AI-native performance infrastructure. Engineered through gaming. Powered by code
 ## 🧠 Vision
 **iStudioGamer** is the flagship studio infrastructure project of [iStudioLabs](https://github.com/iStudioLabs).
 It documents and automates the full stack behind a modern, cinematic gaming YouTube channel — where **DevSecOps meets media production**.
-From 4K cloud linux gaming to FFmpeg pipelines, from YouTube APIs to real-time telemetry, this project is built as a **product-grade platform** — versioned, scalable, and reproducible.
+From 4K Cloud Linux gaming to FFmpeg pipelines, from YouTube APIs to real-time telemetry, this project is built as a **product-grade platform** — versioned, scalable, and reproducible.
 
 ---
 
