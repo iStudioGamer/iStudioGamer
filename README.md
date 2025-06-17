@@ -1,36 +1,36 @@
-# 🎮 iStudioGamer
-AI-native performance infrastructure. Engineered through gaming. Powered by code.
+# 🎮 iStudioGamer  
+AI-native YouTube infrastructure — engineered to automate content operations using code-first workflows.
 
 ---
 
-## 🧠 Vision
-**iStudioGamer** is the flagship studio infrastructure project of [iStudioLabs](https://github.com/iStudioLabs).
-It documents and automates the full stack behind a modern, cinematic gaming YouTube channel — where **DevSecOps meets media production**.
-From 4K Cloud Linux gaming to FFmpeg pipelines, from YouTube APIs to real-time telemetry, this project is built as a **product-grade platform** — versioned, scalable, and reproducible.
+## 🧠 Vision  
+**iStudioGamer** is the flagship infrastructure project of [`iStudioLabs`](https://github.com/iStudioLabs).  
+It defines a reproducible system for managing YouTube gaming content as code, treating videos, metadata, and publishing workflows as version-controlled assets.  
+The goal: automation, consistency, and full-stack control over the content lifecycle.
 
 ---
 
-## ⚙️ Core Architecture
-- 🧱 DevOps-style CI/CD for video publishing
-- 🎥 FFmpeg-based render and encode pipelines
-- 🤖 Whisper + LLM-driven transcription + SEO enrichment
-- 🕹️ Gameplay benchmark overlays (MangoHud, Proton GE)
-- ☁️ Cloud-native API orchestration (YouTube, GCP, etc.)
-- 🧬 All metadata versioned as YAML (titles, tags, timestamps)
+## ⚙️ Core Architecture  
+- 🧱 CI/CD workflows for ingest, processing, and publishing  
+- 🎥 FFmpeg-based rendering and encoding  
+- 🤖 AI-assisted transcription and metadata generation  
+- 🕹️ Benchmark and performance capture integration  
+- ☁️ API-driven orchestration and delivery  
+- 🧬 YAML-based metadata contracts
 
 ---
 
-## 🔁 Workflow Philosophy
-> Treat every video like a code artifact.  
-> Treat every game like a versioned dataset.  
-> Build content pipelines with the discipline of software infrastructure.
+## 🔁 Workflow Philosophy  
+> Videos are infrastructure.  
+> Metadata is versioned.  
+> Publishing is automated.
 
 ---
 
-## 🔍 Studio Identity
-Maintained by [`@iStudioGamer`](https://github.com/iStudioGamer) under the `iStudioLabs` organization.
-This project powers all content and infrastructure for the [iStudioGamer](https://linktr.ee/istudiogamer) brand — from YouTube delivery to AI-powered backend operations.
+## 🔍 Studio Identity  
+Operated by [`@iStudioGamer`](https://github.com/iStudioGamer) within the `iStudioLabs` organization.  
+This project maintains the infrastructure backbone for the iStudioGamer brand and YouTube channel.
 
 ---
 
-🛠️ Designed by an engineer. Maintained as code.
+🛠️ Built for control. Maintained as code.
