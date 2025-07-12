@@ -1,10 +1,10 @@
-# 🎮 iStudioGamer  
+# 🎮 iStudioPlay  
 AI-native YouTube infrastructure — engineered to automate content operations using code-first workflows.
 
 ---
 
 ## 🧠 Vision  
-**iStudioGamer** is the flagship infrastructure project of [`iStudioLabs`](https://github.com/iStudioLabs).  
+**iStudioPlay** is the flagship infrastructure project of [`iStudioLabs`](https://github.com/iStudioLabs).  
 It defines a reproducible system for managing YouTube gaming content as code, treating videos, metadata, and publishing workflows as version-controlled assets.  
 The goal: automation, consistency, and full-stack control over the content lifecycle.
 
@@ -28,8 +28,8 @@ The goal: automation, consistency, and full-stack control over the content lifec
 ---
 
 ## 🔍 Studio Identity  
-Operated by [`@iStudioGamer`](https://github.com/iStudioGamer) within the `iStudioLabs` organization.  
-This project maintains the infrastructure backbone for the iStudioGamer brand and YouTube channel.
+Operated by [`@iStudioPlay`](https://github.com/iStudioPlay) within the `iStudioLabs` organization.  
+This project maintains the infrastructure backbone for the iStudioPlay brand and YouTube channel.
 
 ---
 
